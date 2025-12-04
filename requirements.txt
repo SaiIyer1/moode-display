@@ -1,0 +1,15 @@
+# Python dependencies for Moode Audio Display
+
+# Image processing
+Pillow>=9.0.0
+
+# Note: The following are typically pre-installed with Python:
+# - tkinter (Python GUI library)
+# - sqlite3 (Database access)
+# - subprocess (System command execution)
+
+# System Requirements (install via apt):
+# - xinit
+# - openbox
+# - python3-pil
+# - python3-pil.imagetk

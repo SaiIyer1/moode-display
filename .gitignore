@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+display_debug.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.backup
+*.bak
+
+# User config (if you add config files later)
+config.ini
+settings.json
+
+# Test files
+test_*.py
+*_test.py
+
+# Screenshots (keep template, ignore user screenshots)
+screenshots/*.jpg
+screenshots/*.png
+!screenshots/.gitkeep
