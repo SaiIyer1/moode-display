@@ -36,6 +36,4 @@ test_*.py
 *_test.py
 
 # Screenshots (keep template, ignore user screenshots)
-screenshots/*.jpg
-screenshots/*.png
-!screenshots/.gitkeep
+
