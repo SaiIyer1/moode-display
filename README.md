@@ -37,13 +37,15 @@ A beautiful, touch-friendly display interface for [Moode Audio](https://moodeaud
 ## 📸 Screenshots
 
 ### Main Display
-*[Add screenshot of main display with Spotify playing]*
+![Main Display](screenshots/main-display-spotify.png)
+![Main Display](screenshots/main-display-spotify-2.png)
 
 ### Radio Browser
-*[Add screenshot of radio browser showing station grid]*
+![Radio Browser](screenshots/radio-browser.png)
 
 ### Radio Playing
-*[Add screenshot showing internet radio station playing]*
+![Radio Playing](screenshots/radio-playing-1.png)
+![Radio Playing](screenshots/radio-playing-2.png)
 
 ## 🔧 Hardware Requirements
 
